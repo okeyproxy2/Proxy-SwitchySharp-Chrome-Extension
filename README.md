@@ -39,7 +39,7 @@ By following these steps, you can effectively set up and utilize Proxy SwitchySh
 
 ## Best Proxy for Proxy SwitchySharp
 
-While Proxy SwitchySharp does not provide proxy servers, [OkeyProxy](https://www.okeyproxy.com/en?link=b63b57) is a trusted provider offering stable and [cheap residential proxies](https://www.okeyproxy.com/en/residential-proxies?link=b63b57). 
+While Proxy SwitchySharp does not provide proxy servers, [**OkeyProxy**](https://www.okeyproxy.com/en?link=b63b57) is a trusted provider offering stable and [cheap residential proxies](https://www.okeyproxy.com/en/residential-proxies?link=b63b57). 
 
 With over 150 million real residential IPs in 200+ countries, OkeyProxy ensures a secure and fast browsing experience, supported by dedicated customer service. 
 

@@ -17,6 +17,8 @@ This Chrome extension serves as a robust proxy management tool tailored for Goog
 
 3. Efficient Proxy Management: Easily manage and switch between proxy servers, ideal for users requiring different proxies for various purposes or frequent switching.
 
+[**Gain 150K+ new US residential IP resources now!**](https://www.okeyproxy.com/en/residential-proxies)
+
 ## Setting Up Proxy SwitchySharp
 
 1. Download and Install:
@@ -39,9 +41,10 @@ By following these steps, you can effectively set up and utilize Proxy SwitchySh
 
 ## Best Proxy for Proxy SwitchySharp
 
-While Proxy SwitchySharp does not provide proxy servers, [**OkeyProxy**](https://www.okeyproxy.com/en?link=b63b57) is a trusted provider offering stable and [cheap residential proxies](https://www.okeyproxy.com/en/residential-proxies?link=b63b57). 
+While Proxy SwitchySharp does not provide proxy servers, [**OkeyProxy**](https://www.okeyproxy.com/en?link=b63b57) is a trusted provider offering stable and cheap residential proxies. With over 150 million real residential IPs in 200+ countries, OkeyProxy ensures a secure and fast browsing experience, supported by dedicated customer service. 
 
-With over 150 million real residential IPs in 200+ countries, OkeyProxy ensures a secure and fast browsing experience, supported by dedicated customer service. 
+**Premium Plan** with an additional new **150K top-quality US residential IPs**. Unmatched speed, designed for those who seek perfection. [Get the best discount at just $0.9/GB.](https://www.okeyproxy.com/en/residential-proxies)
 
-[![EN banner](https://github.com/okeyproxy2/Proxy-SwitchySharp-Chrome-Extension/assets/155126786/3344e07b-d16c-4e0d-926d-4bbbd3739294)](https://www.okeyproxy.com/en/residential-proxies?link=b63b57)
+[![1](https://github.com/okeyproxy2/Proxy-SwitchySharp-Chrome-Extension/assets/155126786/21e2ea16-48d0-4147-b565-b2d0b330db79)](https://www.okeyproxy.com/en/residential-proxies)
+
 

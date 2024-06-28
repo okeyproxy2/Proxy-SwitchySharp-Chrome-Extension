@@ -43,7 +43,7 @@ By following these steps, you can effectively set up and utilize Proxy SwitchySh
 
 While Proxy SwitchySharp does not provide proxy servers, [**OkeyProxy**](https://www.okeyproxy.com/en?link=b63b57) is a trusted provider offering stable and cheap residential proxies. With over 150 million real residential IPs in 200+ countries, OkeyProxy ensures a secure and fast browsing experience, supported by dedicated customer service. 
 
-**Premium Plan** with an additional new **150K top-quality US residential IPs**. Unmatched speed, designed for those who seek perfection. [Get the best discount at just $0.9/GB.](https://www.okeyproxy.com/en/residential-proxies)
+**Premium Plan** with an additional new **150K top-quality US residential IPs**. Unmatched speed, designed for those who seek perfection. [**Get the best discount at just $0.9/GB.**](https://www.okeyproxy.com/en/residential-proxies)
 
 [![1](https://github.com/okeyproxy2/Proxy-SwitchySharp-Chrome-Extension/assets/155126786/21e2ea16-48d0-4147-b565-b2d0b330db79)](https://www.okeyproxy.com/en/residential-proxies)
 
